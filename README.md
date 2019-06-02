@@ -1,4 +1,4 @@
-# FlightSurety (by hfccr@outlok.com)
+# flight-surety
 
 A blockchain flight insurance application.
 ![flight surety](surety-screenshot.png)
